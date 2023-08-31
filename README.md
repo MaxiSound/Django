@@ -1,1 +1,1 @@
-# Django
+# Фреймворк Django
